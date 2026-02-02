@@ -3,16 +3,13 @@ import sys
 
 def main():
     if platform.architecture()[0] == "64bit":
-        try:
-            import stex_XD
-            stex_XD.approval_system()   
-            stex_XD.main()              
-        except ImportError:
-            print("Module stex_XD not found!")
-            sys.exit(1)
+        import stex_XD
+        stex_XD.approval()
     else:
         print("32bit Not Supported! Sorry")
         sys.exit(1)
 
 if __name__ == "__main__":
     main()
+
+
