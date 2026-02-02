@@ -5,8 +5,8 @@ def main():
     if platform.architecture()[0] == "64bit":
         try:
             import stex_XD
-            stex_XD.approval_system()   # 👈 এটা যোগ কর
-            stex_XD.main()              # 👈 যদি থাকে
+            stex_XD.approval_system()   
+            stex_XD.main()              
         except ImportError:
             print("Module stex_XD not found!")
             sys.exit(1)
