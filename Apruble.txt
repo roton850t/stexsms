@@ -3,11 +3,7 @@ roton admin apruble
 MR-ROTON|FB|11080|NEW-CRETE|B7B2B|708
 roton instra apruble 
 ROTON-D9795056-67B5B596
-india 7 day new cretecreteMR-ROTON|FB|10391|NEW-CRETE|90528|708
-sorov vai 7 day (expr-12-03-26)
-MR-ROTON|FB|10925|NEW-CRETE|DD5A0|708
-Sabbir 7day aprble (expr-12-03-26)
-MR-ROTON|FB|10355|NEW-CRETE|9362B|708
+
 Ronoy 7 day (expr-14-03-26)
 MR-ROTON|FB|10681|NEW-CRETE|C4F10|708
 jitu 7 day new crete (expr-15-03-2026)
