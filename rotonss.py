@@ -1,10 +1,10 @@
 import platform
 import sys
+import proxy_XD
 
 def main():
     if platform.architecture()[0] == "64bit":
-        import proxy_XD
-        proxy_XD.approval()
+        proxy_XD.main()
     else:
         print("32bit Not Supported! Sorry")
         sys.exit(1)
